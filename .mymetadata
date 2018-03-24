@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mysshba"
+  id="myeclipse.1444466469585"
+  context-root="/mysshba"
+  j2ee-spec="6.0"
+  archive="mysshba.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
